@@ -24,6 +24,16 @@ header:
       # @end locale config
     url: /archive.html
 
+- titles:
+      # @start locale config
+      en      : &EN       Home
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+      zh-Hans : &ZH_HANS  主页
+    url: /index.html
+    
   - titles:
       # @start locale config
       en      : &EN       About
