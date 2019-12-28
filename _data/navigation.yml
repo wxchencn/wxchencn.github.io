@@ -1,7 +1,7 @@
 header:
   
-- title:      Home
-    url:    /index.html
+- title: Home
+    url: /index.html
 
   - titles:
       # @start locale config
