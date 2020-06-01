@@ -1,8 +1,10 @@
 ---
+layout: article
 title: 装机配置单
 tags: computer
+aside:
+  toc: true
 ---
-
 
 **for 嗷嗷小伙伴**
 
