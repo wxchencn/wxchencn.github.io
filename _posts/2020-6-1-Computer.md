@@ -7,8 +7,8 @@ aside:
 ---
 
 **for 嗷嗷小伙伴**
-
 ---
+add：显示器可选：[Redmi 红米 1A 23.8英寸IPS显示器（1080P、60Hz） 499元包邮](https://detail.tmall.com/item.htm?id=618687308201&skuId=4541431874483&pid=mm_25282911_3455987_64919300296)
 ## Intel版本
 
 | 部件 | 型号                                                         | 价格 |
