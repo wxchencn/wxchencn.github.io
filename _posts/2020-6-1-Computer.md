@@ -1,3 +1,8 @@
+---
+title: 装机配置单
+tags: computer
+---
+
 # 装机配置单
 
 **for 嗷嗷小伙伴**
